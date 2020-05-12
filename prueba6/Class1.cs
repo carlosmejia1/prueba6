@@ -8,5 +8,6 @@ namespace prueba6
 {
     public class Class1
     {
+
     }
 }
